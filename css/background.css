@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+ background-color: #181818;
+ color: #fefefe;
+ background-image: url(./../img/unsplash1.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: 50% 50%;
+}
+.welcome{
+    font-size: 6em;
+    text-align: center;
+    background-color: hsla(110, 50%, 50%, 0.5);
+}
